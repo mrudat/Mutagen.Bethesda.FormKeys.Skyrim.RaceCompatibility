@@ -9,6 +9,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mutagen.Bethesda.FormKeys.S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mutagen.Bethesda.FormKeys.SkyrimLE.RaceCompatibility", "Mutagen.Bethesda.FormKeys.SkyrimLE\Mutagen.Bethesda.FormKeys.SkyrimLE.RaceCompatibility.csproj", "{17B64442-A65E-4758-AC4D-4B1A7EEF7C0A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{833C9B0D-887E-41F6-B90E-8BC2453BDB10}"
+	ProjectSection(SolutionItems) = preProject
+		.github\workflows\ci-dev.yml = .github\workflows\ci-dev.yml
+		.github\workflows\ci-prod.yml = .github\workflows\ci-prod.yml
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
