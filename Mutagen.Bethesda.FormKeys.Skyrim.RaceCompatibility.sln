@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mutagen.Bethesda.FormKeys.SkyrimVR.RaceCompatibility", "Mutagen.Bethesda.FormKeys.SkyrimVR\Mutagen.Bethesda.FormKeys.SkyrimVR.RaceCompatibility.csproj", "{1C7F7321-5D05-4373-82F1-D83FF3BE6F27}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mutagen.Bethesda.FormKeys.SkyrimSE.RaceCompatibility", "Mutagen.Bethesda.FormKeys.SkyrimSE\Mutagen.Bethesda.FormKeys.SkyrimSE.RaceCompatibility.csproj", "{C2B659AD-D17C-40CB-935D-217EB5E6F4E0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mutagen.Bethesda.FormKeys.SkyrimLE.RaceCompatibility", "Mutagen.Bethesda.FormKeys.SkyrimLE\Mutagen.Bethesda.FormKeys.SkyrimLE.RaceCompatibility.csproj", "{17B64442-A65E-4758-AC4D-4B1A7EEF7C0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C7F7321-5D05-4373-82F1-D83FF3BE6F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7F7321-5D05-4373-82F1-D83FF3BE6F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7F7321-5D05-4373-82F1-D83FF3BE6F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7F7321-5D05-4373-82F1-D83FF3BE6F27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2B659AD-D17C-40CB-935D-217EB5E6F4E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2B659AD-D17C-40CB-935D-217EB5E6F4E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2B659AD-D17C-40CB-935D-217EB5E6F4E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2B659AD-D17C-40CB-935D-217EB5E6F4E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17B64442-A65E-4758-AC4D-4B1A7EEF7C0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B64442-A65E-4758-AC4D-4B1A7EEF7C0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B64442-A65E-4758-AC4D-4B1A7EEF7C0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B64442-A65E-4758-AC4D-4B1A7EEF7C0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {962212CE-DB3A-48B6-9E03-92036BC21FB4}
+	EndGlobalSection
+EndGlobal
